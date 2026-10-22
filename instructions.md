@@ -1,0 +1,1 @@
+Перед комітом перевіряйте git status i git diff.
